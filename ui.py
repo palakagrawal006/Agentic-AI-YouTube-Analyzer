@@ -1,5 +1,5 @@
 import streamlit as st
-from AgenticAI_Youtube_analyzer.youtubeAnalizer import build_youtube_agent
+from youtubeAnalizer import build_youtube_agent
 
 
 # configuration of page
