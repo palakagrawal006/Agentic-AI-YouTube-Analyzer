@@ -1,5 +1,5 @@
 import streamlit as st
-from youtubeAnalizer import build_youtube_agent
+from youtubeAnalyzer import build_youtube_agent
 
 
 # configuration of page
